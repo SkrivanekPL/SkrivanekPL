@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Skrivanek Poland
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) We are Skrivanek Poland Team!
 ========================================================================================================================================
 
 Translation Agency
@@ -9,8 +9,8 @@ Skrivanek is a highly dynamic language agency, where we combine innovation and o
 Try out our solution based on google translate engine.
 https://skrivanek.pl/darmowe-tlumaczenia-stron-www/
 
-* 🌍  I'm based in Poland
-* ✉️  You can contact me at [orders@skrivanek.pl](mailto:orders@skrivanek.pl)
+* 🌍  We're based in Poland
+* ✉️  You can contact us at [orders@skrivanek.pl](mailto:orders@skrivanek.pl)
 
 
 ### Socials
